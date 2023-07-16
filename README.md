@@ -15,7 +15,7 @@ A(Data Cleaning)-->B(Data Preparation)-->C(Exploratory Data Analysis)-->D(Result
 ```
 
 ## Insights
--   Europe and America had the largest number of resorts, however, America has the highest average price among all continents.
+-   Europe and America had the largest number of resorts, however, America had the highest average price among all continents.
 -   Most of the resorts with high points and big elevation changes were located in Europe and North America. Resorts in Oceania ranked lowest in terms of the mountain peak and elevation.
 -   In Europe, the majority of resorts catered to skiers of all levels. 
 
