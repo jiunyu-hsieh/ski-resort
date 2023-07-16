@@ -20,5 +20,5 @@ A(Data Cleaning)-->B(Data Preparation)-->C(Exploratory Data Analysis)-->D(Result
 -   In Europe, the majority of resorts catered to skiers of all levels. 
 
 
-<img width="750" alt="Dashboard 1" src="https://github.com/jiunyu-hsieh/ski-resort/ski resort dashboard.png">
+<img width="750" alt="Dashboard 1" src="https://github.com/jiunyu-hsieh/ski-resort/blob/main/ski%20resort%20dashboard.png">
 
